@@ -4,7 +4,7 @@
 I'm a **Fullstack Developer**. I love creating beautiful, responsive, and user-friendly web applications. While my heart lies in crafting stunning interfaces, I also enjoy working on the backend to build robust and scalable systems. I strive to bring creativity and elegance into everything I build.
 
 - 💡 I’m interested in **UI/UX design**, **frontend architecture**, and **backend optimization**.
-- 💼 Check out my portfolio: (https://github.com/sarha21/sarha21).
+- 💼 Check out my portfolio: (https://github.com/sarha21).
 - 📫 How to reach me: **saryismartinez@gmail.com**.
 
 ---
